@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nBJIxdGundpnKC8Ks7u3AM9AzV+vMmlwv8jiC2m+3IAv9T8Tm52fkVqg609EuD14z37DpfiOwmrENXw5C9+BaA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\v2202\\source\\repos\\WinFormsApp26\\WinFormsApp26.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\v2202\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\v2202\\.nuget\\packages\\system.management\\7.0.1\\system.management.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
